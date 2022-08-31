@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Coders 👋
 - 🔭 I’m currently working on Android, kotlin.
 - 🌱 I’m currently learning MediaCodec in Android
 - 🤔 I’m looking for help with Mediacodec, ffmpeg, Mediapipe
