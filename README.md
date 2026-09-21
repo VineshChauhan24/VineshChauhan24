@@ -1,6 +1,6 @@
 ### Hi Coders 👋
 
-👨‍💻 **Senior App Developer | iOS Development Team Lead**
+👨‍💻 **Senior Android App Developer | iOS Development Team Lead**
 
 I specialize in building, managing, and scaling high-quality mobile applications across both major platforms. As a Team Lead and Senior Developer, I oversee the entire app lifecycle—from architecture and advanced debugging to store delivery and revenue optimization.
 
